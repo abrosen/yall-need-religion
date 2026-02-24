@@ -19,10 +19,15 @@ A building that provides a means of removing ritual impurity, eg the "observed r
 - Create a building with beauty.
 - Create placeholder styles with name overrides.
 
-###  Create a Holy water collection
+### Idea 1: Create a Holy water collection
 - Buy only from traders.
 - Has an ecumenical collection of holy water.
 - Provides enough for your religion throught the priciple of homeotheopathy!
+
+### Idea 2:  It just works! TM
+- No extra equipment needed
+
+### Idea 3: Ritual to create pure water
 
 ## Remove impurity
 
@@ -37,4 +42,12 @@ A building that provides a means of removing ritual impurity, eg the "observed r
 
 ### Bad Hygeine Integration
 
-# Part 2: Fasting
+# Part 2: The Festive Meal
+
+# Part 3: Fasting
+
+# Part 4: Sabbath
+
+# Part 5: Masquerade
+Rather than dressing our best, let's have a good time and dress in disguise!
+
